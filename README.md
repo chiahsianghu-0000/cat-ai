@@ -26,4 +26,6 @@ Cat AI bridges the gap between quantum chemistry and scalable automation. By int
 * **Performance**: Demonstrating 100% CPU utilization across 32 cores for high-performance computing (HPC).
 
 ### [System Load Snapshot]
-*(Note: Upload your htop screenshot here after setting up the site)*# cat-ai
+<img width="512" height="277" alt="image" src="https://github.com/user-attachments/assets/b848bf14-2821-4102-b518-9b2315830cba" /><img width="512" height="97" alt="image" src="https://github.com/user-attachments/assets/9a9c268c-7655-4280-b092-c5b05a9d3dfa" />
+
+# cat-ai
