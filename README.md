@@ -46,7 +46,6 @@ We are currently scaling our "digital catalyst database."
   <img src="https://img.shields.io/badge/Quantum_Chemistry-ORCA_6.1%20%2F%20xTB-red" alt="QC">
   <img src="https://img.shields.io/badge/Cheminformatics-RDKit%20%2F%20dbstep-green" alt="Cheminformatics">
 </p>
-
 ***
 
-© 2026 <hu chia hsiang>. All rights reserved.
+© 2026 < chia hsiang hu>. All rights reserved.
