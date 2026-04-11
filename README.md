@@ -1,31 +1,52 @@
-# Cat AI: Next-Generation Automated Catalyst Discovery
+# Cat-AI: Accelerating Catalyst Discovery with Autonomous Hybrid-Cloud AI Workflows
 
-> **Accelerating organometallic research through high-throughput DFT simulation and machine learning.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Beta-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Compute-AWS%20%2F%20Azure-blue" alt="Compute">
+  <img src="https://img.shields.io/badge/Chemistry-DFT%20%2F%20xTB-red" alt="Chemistry">
+</p>
 
----
+## 🌟 Executive Summary
 
-## 🔬 The Problem: The Bottleneck in Catalyst R&D
-The discovery of efficient catalysts is often hindered by the "trial and error" nature of traditional laboratory experiments. Density Functional Theory (DFT) offers precise quantum insights, but complex ligand calculations are computationally expensive and manually intensive.
+**Cat-AI** is a pioneering framework designed to revolutionize the discovery of homogeneous catalysts. Traditional trial-and-error laboratory screening is slow, costly, and unsustainable. Cat-AI bridges the gap by orchestrating high-throughput, high-fidelity computational chemistry with advanced machine learning to predict catalyst performance instantly.
 
-## 🚀 The Solution: Our Intelligent Automation Pipeline
-Cat AI bridges the gap between quantum chemistry and scalable automation. By integrating **Machine Learning (ML)** with the **ORCA DFT engine**, we have built a pipeline that:
-* Performs rapid structure generation and pre-optimization.
-* Executes precision quantum mechanical refinements without manual intervention.
-* Screens thousands of ligands to identify the most promising candidates.
+We represent the next generation of **Green Chemistry innovation**, enabling materials science and pharmaceutical companies to find efficient catalysts in days, not years.
 
-## ⚡ Tech Stack
-| Category | Tools & Infrastructure |
-| :--- | :--- |
-| **Cloud** | AWS EC2 **c7i.8xlarge** instances (32 vCPUs, 64GB RAM) |
-| **Chemistry** | **ORCA**, **xTB** (GFN2-xTB), **RDKit** |
-| **Data** | **DuckDB**, **Python**, **Pandas** |
+## 🏆 Key Features & Technical Innovation
 
-## 📊 Evidence of Traction
-* **Milestone**: Successfully optimized **200+** ligand structures within the first 24 hours.
-* **Scale**: Targeting a **3,700+** ligand library for comprehensive screening.
-* **Performance**: Demonstrating 100% CPU utilization across 32 cores for high-performance computing (HPC).
+To protect core intellectual property, specific model architectures are confidential. However, Cat-AI delivers impact through these powerful pipeline innovations:
 
-### [System Load Snapshot]
-<img width="512" height="277" alt="image" src="https://github.com/user-attachments/assets/b848bf14-2821-4102-b518-9b2315830cba" /><img width="512" height="97" alt="image" src="https://github.com/user-attachments/assets/9a9c268c-7655-4280-b092-c5b05a9d3dfa" />
+### 1. Autonomous, High-Throughput Orchestration
+A seamless, zero-intervention pipeline that converts raw chemical strings (SMILES) into fully optimized 3D electronic and steric descriptors.
+* **Workflow:** `SMILES Input` -> `3D Generation` -> `Multi-stage Pre-optimization (xTB)` -> `Production DFT (ORCA)` -> `Feature Extraction`.
 
-# cat-ai
+### 2. Specialized Transition Metal Handling
+Optimized logic for handling complex d-block elements (Fe, Pd, Ni) with accurate spin-multiplicity detection, a critical challenge in computational catalysis.
+
+### 3. Steric & Electronic Fingerprinting
+Instantaneous generation of complex chemical descriptors:
+* **Steric:** Buried Volume ($\%V_{Bur}$), Steric Maps.
+* **Electronic:** Frontier Molecular Orbitals (HOMO/LUMO), Dipole Moments, Hardness/Softness.
+
+### 4. Scalable Hybrid-Cloud Architecture
+Designed to utilize fragmented compute resources across AWS and Microsoft Azure simultaneously, optimizing compute spend and throughput.
+
+## 📊 Proven Traction & Activity
+
+We are currently scaling our "digital catalyst database."
+
+* ✅ **Pipeline MVP:** Completed.
+* 🚀 **Production Data Generation:** Active. (Currently generating **3000+** high-accuracy DFT data points on Iron-based ligands).
+* 🚧 **ML Training & Experimental Validation:** Planned for Phase 2 (Target: Q3 2026).
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Quantum_Chemistry-ORCA_6.1%20%2F%20xTB-red" alt="QC">
+  <img src="https://img.shields.io/badge/Cheminformatics-RDKit%20%2F%20dbstep-green" alt="Cheminformatics">
+</p>
+
+***
+
+© 2026 <您的團隊名稱/個人名字>. All rights reserved.
