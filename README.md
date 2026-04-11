@@ -49,4 +49,4 @@ We are currently scaling our "digital catalyst database."
 
 ***
 
-© 2026 <您的團隊名稱/個人名字>. All rights reserved.
+© 2026 <hu chia hsiang>. All rights reserved.
